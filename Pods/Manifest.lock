@@ -1,0 +1,26 @@
+PODS:
+  - IBAnimatable (3.0)
+  - Kingfisher (3.1.3)
+  - TMDBSwift (0.2.0)
+  - XLActionController (3.0.0):
+    - XLActionController/Core (= 3.0.0)
+  - XLActionController/Core (3.0.0)
+  - XLActionController/Youtube (3.0.0):
+    - XLActionController/Core
+
+DEPENDENCIES:
+  - IBAnimatable
+  - Kingfisher
+  - TMDBSwift
+  - XLActionController
+  - XLActionController/Youtube
+
+SPEC CHECKSUMS:
+  IBAnimatable: 5ac8e4c9f879e1840041362e41f7728bbbf16b35
+  Kingfisher: 007f5851c18c81e7cc106c9cbac1bafea1cce5dc
+  TMDBSwift: 74d4e93a0f9f05a72355311c54130f2768565fe1
+  XLActionController: 895174cab4a37c0eabf8a7d94b7430e4cb58d002
+
+PODFILE CHECKSUM: 9ce2ca39d469336654cba35c50403402832a07b6
+
+COCOAPODS: 1.1.0.rc.3
